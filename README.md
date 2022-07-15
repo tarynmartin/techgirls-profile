@@ -1,6 +1,6 @@
 ## Create Your Own Profile Page
 
-## Clone this Repo:
+### Clone this Repo:
 In the upper right of this page, there is a green button that says `Code`. Make sure the tab labeled SSH is selected, and then copy the file path below that.
 
 Next, open your terminal and go to where you would like to place this repo. Once there, type in git clone `file path` and hit enter, with file path being what you copied before.
