@@ -1,0 +1,7 @@
+body {
+  background-color: aquamarine;
+  display: flex;
+  flex-flow: column wrap;
+  justify-content: center;
+  align-items: center;
+}
